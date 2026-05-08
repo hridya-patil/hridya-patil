@@ -14,7 +14,7 @@ Currently working through a structured roadmap covering Python, SQL, Power BI, a
 ## 📊 Projects (updating as I build them)
 | Project | Tools | Link |
 |---------|-------|------|
-| IPL EDA | Python, Pandas, Seaborn | Coming soon |
+| IPL EDA | Python, Pandas, Seaborn | [View] (https://github.com/hridya-patil/ipl-eda) |
 | SQL Business Analysis | SQL, SQLite | Coming soon |
 | Power BI Sales Dashboard | Power BI, DAX | Coming soon |
 | A/B Test Analysis | Python, SciPy | Coming soon |
